@@ -1,0 +1,15 @@
+/Users/breno/Documents/Development/DotNet/DIO/DesafioEstacionamento/DesafioEstacionamento/bin/Debug/net6.0/DesafioEstacionamento
+/Users/breno/Documents/Development/DotNet/DIO/DesafioEstacionamento/DesafioEstacionamento/bin/Debug/net6.0/DesafioEstacionamento.deps.json
+/Users/breno/Documents/Development/DotNet/DIO/DesafioEstacionamento/DesafioEstacionamento/bin/Debug/net6.0/DesafioEstacionamento.runtimeconfig.json
+/Users/breno/Documents/Development/DotNet/DIO/DesafioEstacionamento/DesafioEstacionamento/bin/Debug/net6.0/DesafioEstacionamento.dll
+/Users/breno/Documents/Development/DotNet/DIO/DesafioEstacionamento/DesafioEstacionamento/bin/Debug/net6.0/DesafioEstacionamento.pdb
+/Users/breno/Documents/Development/DotNet/DIO/DesafioEstacionamento/DesafioEstacionamento/obj/Debug/net6.0/DesafioEstacionamento.csproj.AssemblyReference.cache
+/Users/breno/Documents/Development/DotNet/DIO/DesafioEstacionamento/DesafioEstacionamento/obj/Debug/net6.0/DesafioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/breno/Documents/Development/DotNet/DIO/DesafioEstacionamento/DesafioEstacionamento/obj/Debug/net6.0/DesafioEstacionamento.AssemblyInfoInputs.cache
+/Users/breno/Documents/Development/DotNet/DIO/DesafioEstacionamento/DesafioEstacionamento/obj/Debug/net6.0/DesafioEstacionamento.AssemblyInfo.cs
+/Users/breno/Documents/Development/DotNet/DIO/DesafioEstacionamento/DesafioEstacionamento/obj/Debug/net6.0/DesafioEstacionamento.csproj.CoreCompileInputs.cache
+/Users/breno/Documents/Development/DotNet/DIO/DesafioEstacionamento/DesafioEstacionamento/obj/Debug/net6.0/DesafioEstacionamento.dll
+/Users/breno/Documents/Development/DotNet/DIO/DesafioEstacionamento/DesafioEstacionamento/obj/Debug/net6.0/refint/DesafioEstacionamento.dll
+/Users/breno/Documents/Development/DotNet/DIO/DesafioEstacionamento/DesafioEstacionamento/obj/Debug/net6.0/DesafioEstacionamento.pdb
+/Users/breno/Documents/Development/DotNet/DIO/DesafioEstacionamento/DesafioEstacionamento/obj/Debug/net6.0/DesafioEstacionamento.genruntimeconfig.cache
+/Users/breno/Documents/Development/DotNet/DIO/DesafioEstacionamento/DesafioEstacionamento/obj/Debug/net6.0/ref/DesafioEstacionamento.dll
